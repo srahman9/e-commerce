@@ -23,7 +23,7 @@ This application requires users to download node.js and mysql to run. After inst
 
 ## Usage
 
-You will need to use the terminal to run NPM start and use Insomnia to view the data. Please use the following link for a demonstration on how to use Node:
+You will need to use the terminal to run NPM start and use Insomnia to view the data. Please use the following link for a demonstration on how to use Node: https://user-images.githubusercontent.com/32348687/155887078-bf11ca7d-4432-48bc-9243-bd9572b55331.mp4
 
 ## License
 
